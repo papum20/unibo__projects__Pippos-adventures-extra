@@ -1,0 +1,167 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x x                          x
+x x x  xxxx xxx xxxxxxxxxxxx x
+x x xxx   x  x             x x
+x x x   x xx x x xx x xx xx  x
+x x   xx xx xx x   xx xx x   x
+x x xx   xx   x xxx  x x  x  x
+xx   x  x   x   xx     xxx xxx
+x x x xxx  x xxxx x x x    x x
+x x  x  x x      xx x  x xx  x
+x x xxx x   xxx x x xxx  xx  x
+x x   x xxxx  x         x x  x
+x  xxx  x   x  x xxx xxx  xx x
+xx     x xx x   x  x     x x x
+xx xxxxx  x  xx     xxxxx    x
+xx   x  x  x   x xxx    x x  x
+x x x x  x  xx x   x x x   x x
+x x x  x  x  x  xx x    xx   x
+x  x xx x x  xx   x x x x  x x
+xx   x x   xx  xx   x   x xx x
+   x x x         x xx x x x   
+x xx x    xxx xx  x x x x x  x
+xx x  x  x   x   x xx   x xx x
+x  x xxx  xx x x   x xx x x  x
+xx x   x x  xx   xxx x  x x  x
+xx  x xx   x x x   x x  x xx x
+x x x  x x   x   xx   x    x x
+x     xx  xx  x   x x  xx xx x
+xx  x   x   x x   x  x  x xx x
+x xx  x  xxxx  xx  x  x    x x
+x  x x       x   x xx   x xx x
+x  xx xx xxx  xx  x  xx x  x x
+x  xx  x    x  xx     x x xx x
+xxx  x  xx x xx  xxx x  x xx x
+x  x x x    x x x  x  x x xx x
+x x  x x x x x   x  x  xx xx x
+x x  x  xx  xx xx x  x  x  x x
+x  x  xx  xxx  x   x xx x  x x
+x  xx         x    xx   x    x
+xxxxxxxxxxxxxxx xxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x x                          x
+x x x  xxxx xxx xxxxxxxxxxxx x
+x x xxx   x  x             x x
+x x x   x xx x x xx x xx xx  x
+x x   xx xx xx x   xx xx x   x
+x   xx   xx   x xx   x x  x  x
+xx          x   xx     xxx xxx
+x x x xxx  x xxx  x x x    x x
+x x  x  x x      xx x  x xx  x
+x x xxx x   xxx x x xxx  xx  x
+x     x xxxx  x         x x  x
+x  xxx  x   x  x xxx xxx  xx x
+xx     x xx x      x     x x x
+xx xxxxx  x  xx     xxxxx    x
+xx   x  x  x   x xx     x x  x
+x x x x  x   x x   x x x   x x
+x x x  x  x  x  xx x    xx   x
+x  x  x   x  xx   x x x x  x x
+xx   x x   xx  xx   x   x xx x
+   x x x         x xx x x x   
+x xx x    x x xx    x x x x  x
+xx x  x  x   x   x xx   x xx x
+x  x xxx  xx x x   x xx x x  x
+xx x   x x  xx   xxx x  x x  x
+xx  x xx   x x x     x  x xx x
+x x x  x x   x   xx   x    x x
+x     xx  xx  x   x x  xx xx x
+xx  x       x x   x  x  x xx x
+x xx  x  xxxx  xx  x  x    x x
+x  x x       x   x xx   x xx x
+x  xx xx xxx  xx  x  xx x  x x
+x   x  x    x  xx     x x xx x
+xxx  x  xx   xx  xxx x  x xx x
+x    x x    x x       x x xx x
+x x  x x x       x  x  xx xx x
+x x  x  xx  xx xx    x  x  x x
+x  x   x  xxx  x   x xx x  x x
+x  xx         x    xx   x    x
+xxxxxxxxxxxxxxx xxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x         xxxxxxxxx                                                                                                                                                                                                                                          x
+x         xxxxxxxxx         xxxxxxxxx                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         x
+x         xxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxx                           xxxxxxxxx                  xxxxxxxxx                                                                                                                     xxxxxxxxx         x
+x         xxxxxxxxx         xxxxxxxxx                           xxxxxxxxx         xxxxxxxxxxxxxxxxxx         xxxxxxxxx         xxxxxxxxx         xxxxxxxxxxxxxxxxxx         xxxxxxxxx         xxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxx                  x
+x         xxxxxxxxx                           xxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxx         xxxxxxxxx                           xxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxx         xxxxxxxxx                           x
+x                           xxxxxxxxxxxxxxxxxx                           xxxxxxxxxxxxxxxxxx                           xxxxxxxxx         xxxxxxxxxxxxxxxxxx                           xxxxxxxxx         xxxxxxxxx                  xxxxxxxxx                  x
+xxxxxxxxxx                                                                                          xxxxxxxxx                           xxxxxxxxxxxxxxxxxx                                             xxxxxxxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxxx
+x         xxxxxxxxx         xxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxx         xxxxxxxxx         xxxxxxxxx                                    xxxxxxxxx         x
+x         xxxxxxxxx                  xxxxxxxxx                  xxxxxxxxx         xxxxxxxxx                                                      xxxxxxxxxxxxxxxxxx         xxxxxxxxx                  xxxxxxxxx         xxxxxxxxxxxxxxxxxx                  x
+x         xxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxx                           xxxxxxxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxx         xxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxxx                  x
+x                                             xxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxx                                                                                 xxxxxxxxx         xxxxxxxxx                  x
+x                  xxxxxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxx                           xxxxxxxxx                  xxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxxx         x
+xxxxxxxxxx                                             xxxxxxxxx         xxxxxxxxxxxxxxxxxx         xxxxxxxxx                                                      xxxxxxxxx                                             xxxxxxxxx         xxxxxxxxx         x
+xxxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxx                  xxxxxxxxxxxxxxxxxx                                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                                    x
+xxxxxxxxxx                           xxxxxxxxx                  xxxxxxxxx                  xxxxxxxxx                           xxxxxxxxx         xxxxxxxxxxxxxxxxxx                                             xxxxxxxxx         xxxxxxxxx                  x
+x         xxxxxxxxx         xxxxxxxxx         xxxxxxxxx                  xxxxxxxxx                           xxxxxxxxx         xxxxxxxxx                           xxxxxxxxx         xxxxxxxxx         xxxxxxxxx                           xxxxxxxxx         x
+x         xxxxxxxxx         xxxxxxxxx                  xxxxxxxxx                  xxxxxxxxx                  xxxxxxxxx                  xxxxxxxxxxxxxxxxxx         xxxxxxxxx                                    xxxxxxxxxxxxxxxxxx                           x
+x                  xxxxxxxxx                  xxxxxxxxx                           xxxxxxxxx                  xxxxxxxxxxxxxxxxxx                           xxxxxxxxx         xxxxxxxxx         xxxxxxxxx         xxxxxxxxx                  xxxxxxxxx         x
+xxxxxxxxxx                           xxxxxxxxx         xxxxxxxxx                           xxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxxx                           xxxxxxxxx                           xxxxxxxxx         xxxxxxxxxxxxxxxxxx         x
+                   xxxxxxxxx         xxxxxxxxx         xxxxxxxxx                                                                                 xxxxxxxxx         xxxxxxxxxxxxxxxxxx         xxxxxxxxx         xxxxxxxxx         xxxxxxxxx                   
+x         xxxxxxxxxxxxxxxxxx         xxxxxxxxx                                    xxxxxxxxx         xxxxxxxxx         xxxxxxxxxxxxxxxxxx                                    xxxxxxxxx         xxxxxxxxx         xxxxxxxxx         xxxxxxxxx                  x
+xxxxxxxxxx         xxxxxxxxx                  xxxxxxxxx                  xxxxxxxxx                           xxxxxxxxx                           xxxxxxxxx         xxxxxxxxxxxxxxxxxx                           xxxxxxxxx         xxxxxxxxxxxxxxxxxx         x
+x                  xxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxxx         xxxxxxxxx         xxxxxxxxx                           xxxxxxxxx         xxxxxxxxxxxxxxxxxx         xxxxxxxxx         xxxxxxxxx                  x
+xxxxxxxxxx         xxxxxxxxx                           xxxxxxxxx         xxxxxxxxx                  xxxxxxxxxxxxxxxxxx                           xxxxxxxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxx                  xxxxxxxxx         xxxxxxxxx                  x
+xxxxxxxxxx                  xxxxxxxxx         xxxxxxxxxxxxxxxxxx                           xxxxxxxxx         xxxxxxxxx         xxxxxxxxx                                             xxxxxxxxx                  xxxxxxxxx         xxxxxxxxxxxxxxxxxx         x
+x         xxxxxxxxx         xxxxxxxxx                  xxxxxxxxx         xxxxxxxxx                           xxxxxxxxx                           xxxxxxxxxxxxxxxxxx                           xxxxxxxxx                                    xxxxxxxxx         x
+x                                             xxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxxx                  xxxxxxxxx                           xxxxxxxxx         xxxxxxxxx                  xxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxx         x
+xxxxxxxxxx                  xxxxxxxxx                                                               xxxxxxxxx         xxxxxxxxx                           xxxxxxxxx                  xxxxxxxxx                  xxxxxxxxx         xxxxxxxxxxxxxxxxxx         x
+x         xxxxxxxxxxxxxxxxxx                  xxxxxxxxx                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxxx                  xxxxxxxxx                  xxxxxxxxx                                    xxxxxxxxx         x
+x                  xxxxxxxxx         xxxxxxxxx                                                               xxxxxxxxx                           xxxxxxxxx         xxxxxxxxxxxxxxxxxx                           xxxxxxxxx         xxxxxxxxxxxxxxxxxx         x
+x                  xxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxxx                  xxxxxxxxx                  xxxxxxxxxxxxxxxxxx         xxxxxxxxx                  xxxxxxxxx         x
+x                           xxxxxxxxx                  xxxxxxxxx                                    xxxxxxxxx                  xxxxxxxxxxxxxxxxxx                                             xxxxxxxxx         xxxxxxxxx         xxxxxxxxxxxxxxxxxx         x
+xxxxxxxxxxxxxxxxxxx                  xxxxxxxxx                  xxxxxxxxxxxxxxxxxx                           xxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxx                  xxxxxxxxx         xxxxxxxxxxxxxxxxxx         x
+x                                    xxxxxxxxx         xxxxxxxxx                                    xxxxxxxxx         xxxxxxxxx                                                               xxxxxxxxx         xxxxxxxxx         xxxxxxxxxxxxxxxxxx         x
+x         xxxxxxxxx                  xxxxxxxxx         xxxxxxxxx         xxxxxxxxx                                                               xxxxxxxxx                  xxxxxxxxx                  xxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxx         x
+x         xxxxxxxxx                  xxxxxxxxx                  xxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxx                                    xxxxxxxxx                  xxxxxxxxx                  xxxxxxxxx         x
+x                  xxxxxxxxx                           xxxxxxxxx                  xxxxxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxx                           xxxxxxxxx         xxxxxxxxxxxxxxxxxx         xxxxxxxxx                  xxxxxxxxx         x
+x                  xxxxxxxxxxxxxxxxxx                                                                                 xxxxxxxxx                                    xxxxxxxxxxxxxxxxxx                           xxxxxxxxx                                    x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+
+
+
+
+                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                                       x         xxxxxxxxx                                                                                                                                                                                                                                          x
+                                      x         xxxxxxxxx         xxxxxxxxx                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         x
+                                     x         xxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxx                           xxxxxxxxx                  xxxxxxxxx                                                                                                                     xxxxxxxxx         x
+                                    x         xxxxxxxxx         xxxxxxxxx                           xxxxxxxxx         xxxxxxxxxxxxxxxxxx         xxxxxxxxx         xxxxxxxxx         xxxxxxxxxxxxxxxxxx         xxxxxxxxx         xxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxx                  x
+                                   x         xxxxxxxxx                           xxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxx         xxxxxxxxx                           xxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxx         xxxxxxxxx                           x
+                                  x                           xxxxxxxxxxxxxxxxxx                           xxxxxxxxxxxxxxxxxx                           xxxxxxxxx         xxxxxxxxxxxxxxxxxx                           xxxxxxxxx         xxxxxxxxx                  xxxxxxxxx                  x
+                                 xxxxxxxxxx                                                                                          xxxxxxxxx                           xxxxxxxxxxxxxxxxxx                                             xxxxxxxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxxx
+                                x         xxxxxxxxx         xxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxx         xxxxxxxxx         xxxxxxxxx                                    xxxxxxxxx         x
+                               x         xxxxxxxxx                  xxxxxxxxx                  xxxxxxxxx         xxxxxxxxx                                                      xxxxxxxxxxxxxxxxxx         xxxxxxxxx                  xxxxxxxxx         xxxxxxxxxxxxxxxxxx                  x
+                              x         xxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxx                           xxxxxxxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxx         xxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxxx                  x
+                             x                                             xxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxx                                                                                 xxxxxxxxx         xxxxxxxxx                  x
+                            x                  xxxxxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxx                           xxxxxxxxx                  xxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxxx         x
+                           xxxxxxxxxx                                             xxxxxxxxx         xxxxxxxxxxxxxxxxxx         xxxxxxxxx                                                      xxxxxxxxx                                             xxxxxxxxx         xxxxxxxxx         x
+                          xxxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxx                  xxxxxxxxxxxxxxxxxx                                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                                    x
+                         xxxxxxxxxx                           xxxxxxxxx                  xxxxxxxxx                  xxxxxxxxx                           xxxxxxxxx         xxxxxxxxxxxxxxxxxx                                             xxxxxxxxx         xxxxxxxxx                  x
+                        x         xxxxxxxxx         xxxxxxxxx         xxxxxxxxx                  xxxxxxxxx                           xxxxxxxxx         xxxxxxxxx                           xxxxxxxxx         xxxxxxxxx         xxxxxxxxx                           xxxxxxxxx         x
+                       x         xxxxxxxxx         xxxxxxxxx                  xxxxxxxxx  |||             xxxxxxxxx                  xxxxxxxxx                  xxxxxxxxxxxxxxxxxx         xxxxxxxxx                                    xxxxxxxxxxxxxxxxxx                           x
+                      x                  xxxxxxxxx                  xxxxxxxxx             0    \A/      xxxxxxxxx                  xxxxxxxxxxxxxxxxxx                           xxxxxxxxx         xxxxxxxxx         xxxxxxxxx         xxxxxxxxx                  xxxxxxxxx         x
+                     xxxxxxxxxx                           xxxxxxxxx         xxxxxxxxx    /A\    0               xxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxxx                           xxxxxxxxx                           xxxxxxxxx         xxxxxxxxxxxxxxxxxx         x
+                    xxxxxxxxx         xxxxxxxxx         xxxxxxxxx                   AA         |||                                                xxxxxxxxx         xxxxxxxxxxxxxxxxxx         xxxxxxxxx         xxxxxxxxx         xxxxxxxxx                   
+                   x         xxxxxxxxxxxxxxxxxx         xxxxxxxxx                  AAAA\             xxxxxxxxx         xxxxxxxxx         xxxxxxxxxxxxxxxxxx                                    xxxxxxxxx         xxxxxxxxx         xxxxxxxxx         xxxxxxxxx                  x
+                  xxxxxxxxxx         xxxxxxxxx                  xxxxxxxxx          //\\    xxxxxxxxx                           xxxxxxxxx                           xxxxxxxxx         xxxxxxxxxxxxxxxxxx                           xxxxxxxxx         xxxxxxxxxxxxxxxxxx         x
+                 x                  xxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxxx         xxxxxxxxx         xxxxxxxxx                           xxxxxxxxx         xxxxxxxxxxxxxxxxxx         xxxxxxxxx         xxxxxxxxx                  x
+                xxxxxxxxxx         xxxxxxxxx                           xxxxxxxxx         xxxxxxxxx                  xxxxxxxxxxxxxxxxxx                           xxxxxxxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxx                  xxxxxxxxx         xxxxxxxxx                  x
+               xxxxxxxxxx                  xxxxxxxxx         xxxxxxxxxxxxxxxxxx                           xxxxxxxxx         xxxxxxxxx         xxxxxxxxx                                             xxxxxxxxx                  xxxxxxxxx         xxxxxxxxxxxxxxxxxx         x
+              x         xxxxxxxxx         xxxxxxxxx                  xxxxxxxxx         xxxxxxxxx                           xxxxxxxxx                           xxxxxxxxxxxxxxxxxx                           xxxxxxxxx                                    xxxxxxxxx         x
+             x                                             xxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxxx                  xxxxxxxxx                           xxxxxxxxx         xxxxxxxxx                  xxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxx         x
+            xxxxxxxxxx                  xxxxxxxxx                               /                               xxxxxxxxx         xxxxxxxxx                           xxxxxxxxx                  xxxxxxxxx                  xxxxxxxxx         xxxxxxxxxxxxxxxxxx         x
+           x         xxxxxxxxxxxxxxxxxx                  xxxxxxxxx             o-   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxxx                  xxxxxxxxx                  xxxxxxxxx                                    xxxxxxxxx         x
+          x                  xxxxxxxxx         xxxxxxxxx                        \                                      xxxxxxxxx                           xxxxxxxxx         xxxxxxxxxxxxxxxxxx                           xxxxxxxxx         xxxxxxxxxxxxxxxxxx         x
+         x                  xxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxxx                  xxxxxxxxx                  xxxxxxxxxxxxxxxxxx         xxxxxxxxx                  xxxxxxxxx         x
+        x                           xxxxxxxxx                  xxxxxxxxx                                    xxxxxxxxx                  xxxxxxxxxxxxxxxxxx                                             xxxxxxxxx         xxxxxxxxx         xxxxxxxxxxxxxxxxxx         x
+       xxxxxxxxxxxxxxxxxxx                  xxxxxxxxx                  xxxxxxxxxxxxxxxxxx                           xxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxx                  xxxxxxxxx         xxxxxxxxxxxxxxxxxx         x
+      x                                    xxxxxxxxx         xxxxxxxxx                                    xxxxxxxxx         xxxxxxxxx                                                               xxxxxxxxx         xxxxxxxxx         xxxxxxxxxxxxxxxxxx         x
+     x         xxxxxxxxx                  xxxxxxxxx         xxxxxxxxx         xxxxxxxxx                                                               xxxxxxxxx                  xxxxxxxxx                  xxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxx         x
+    x         xxxxxxxxx                  xxxxxxxxx                  xxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxx                                    xxxxxxxxx                  xxxxxxxxx                  xxxxxxxxx         x
+   x                  xxxxxxxxx                           xxxxxxxxx                  xxxxxxxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxx                           xxxxxxxxx         xxxxxxxxxxxxxxxxxx         xxxxxxxxx                  xxxxxxxxx         x
+  x                  xxxxxxxxxxxxxxxxxx                                                                                 xxxxxxxxx                                    xxxxxxxxxxxxxxxxxx                           xxxxxxxxx                                    x
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
